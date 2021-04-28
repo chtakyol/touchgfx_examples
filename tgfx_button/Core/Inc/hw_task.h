@@ -1,0 +1,2 @@
+void hwInit();
+void hwRoutine();
